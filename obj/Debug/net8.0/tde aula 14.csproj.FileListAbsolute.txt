@@ -1,0 +1,14 @@
+C:\Users\power\OneDrive\Área de Trabalho\ADS\LABORATÓRIO DE PROGRAMAÇÃO\tde aula 14\bin\Debug\net8.0\tde aula 14.exe
+C:\Users\power\OneDrive\Área de Trabalho\ADS\LABORATÓRIO DE PROGRAMAÇÃO\tde aula 14\bin\Debug\net8.0\tde aula 14.deps.json
+C:\Users\power\OneDrive\Área de Trabalho\ADS\LABORATÓRIO DE PROGRAMAÇÃO\tde aula 14\bin\Debug\net8.0\tde aula 14.runtimeconfig.json
+C:\Users\power\OneDrive\Área de Trabalho\ADS\LABORATÓRIO DE PROGRAMAÇÃO\tde aula 14\bin\Debug\net8.0\tde aula 14.dll
+C:\Users\power\OneDrive\Área de Trabalho\ADS\LABORATÓRIO DE PROGRAMAÇÃO\tde aula 14\bin\Debug\net8.0\tde aula 14.pdb
+C:\Users\power\OneDrive\Área de Trabalho\ADS\LABORATÓRIO DE PROGRAMAÇÃO\tde aula 14\obj\Debug\net8.0\tde aula 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\power\OneDrive\Área de Trabalho\ADS\LABORATÓRIO DE PROGRAMAÇÃO\tde aula 14\obj\Debug\net8.0\tde aula 14.AssemblyInfoInputs.cache
+C:\Users\power\OneDrive\Área de Trabalho\ADS\LABORATÓRIO DE PROGRAMAÇÃO\tde aula 14\obj\Debug\net8.0\tde aula 14.AssemblyInfo.cs
+C:\Users\power\OneDrive\Área de Trabalho\ADS\LABORATÓRIO DE PROGRAMAÇÃO\tde aula 14\obj\Debug\net8.0\tde aula 14.csproj.CoreCompileInputs.cache
+C:\Users\power\OneDrive\Área de Trabalho\ADS\LABORATÓRIO DE PROGRAMAÇÃO\tde aula 14\obj\Debug\net8.0\tde aula 14.dll
+C:\Users\power\OneDrive\Área de Trabalho\ADS\LABORATÓRIO DE PROGRAMAÇÃO\tde aula 14\obj\Debug\net8.0\refint\tde aula 14.dll
+C:\Users\power\OneDrive\Área de Trabalho\ADS\LABORATÓRIO DE PROGRAMAÇÃO\tde aula 14\obj\Debug\net8.0\tde aula 14.pdb
+C:\Users\power\OneDrive\Área de Trabalho\ADS\LABORATÓRIO DE PROGRAMAÇÃO\tde aula 14\obj\Debug\net8.0\tde aula 14.genruntimeconfig.cache
+C:\Users\power\OneDrive\Área de Trabalho\ADS\LABORATÓRIO DE PROGRAMAÇÃO\tde aula 14\obj\Debug\net8.0\ref\tde aula 14.dll
